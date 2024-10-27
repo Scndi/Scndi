@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scndi,an undergraduate student majoring in software engineering at Chongqing University  
 - 👀 I’m interested in badminton and fitness  
-- 🌱 I’m currently learning java,web(front end and back-end technology)  
+- 🌱 I’m currently learning java,web(front end and back-end technology),AI  
 - 📫 How to reach me:
   -  qq: 2462307688
   -  wechat: a2462307688
